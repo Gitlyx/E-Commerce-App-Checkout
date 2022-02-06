@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {}
+    "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {
+    "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "c:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
+        "projectPath": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
         "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\obj\\",
+        "outputPath": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,7 +39,13 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
             "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.1, )"
             },
