@@ -8,7 +8,7 @@ using API.Entities;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
-{ 
+{
     [ApiController]
     [Route("api/[controller]")]
     public class ProductsController : ControllerBase
@@ -27,7 +27,7 @@ namespace API.Controllers
         }
 
         [HttpGet("{id}")] // access example: api/products/3
-        public async Task<ActionResult<Product>> GetProducts(int id)
+        public async Task<ActionResult<Product>> GetProduct(int id)
         {
             return await _context.Products.FindAsync(id);
         }
