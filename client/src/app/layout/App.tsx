@@ -1,8 +1,8 @@
 import { useEffect, useState } from "react";
-import { Product } from "./product";
+import * as product from "../models/product";
 
 function App() {
-  const [products, setProducts] = useState<Product[]>([]);
+  const [products, setProducts] = useState<product.Product[]>([]);
 
   useEffect(() => {
     fetch("http://localhost:5000/api/Products")
