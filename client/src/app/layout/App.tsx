@@ -12,26 +12,24 @@ function App() {
       .then((data) => setProducts(data));
   }, []);
 
-  const addProducts = () => {
-    setProducts((prevState) => [
-      ...prevState,
+  const addProduct = () => {
+    setProducts(prevState => [...prevState,
       {
         id: prevState.length + 101,
-        name: "product " + prevState.length * 100 + 100,
-        price: 300.0,
-        brand: "brandName",
-        description: "desc.",
-        pictureUrl: "http://picsum.photos/240",
-      },
-    ]);
-  };
+        name: 'product ' + (prevState.length + 1),
+        price: (prevState.length * 100) + 100,
+        brand: 'brandName',
+        description: 'desc.',
+        pictureUrl: 'http://picsum.photos/200',
+      }])
+  }
 
   return (
     <>
       <Typography variant="h1">Re-Store</Typography>
-      <Catalog products={products} addProduct={addProducts}/>
+      <Catalog products={products} addProduct={addProduct}/>
     </>
-  );
+  )
 }
 
 export default App;
