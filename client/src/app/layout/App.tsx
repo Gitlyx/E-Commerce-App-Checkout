@@ -1,7 +1,8 @@
-import { Typography } from "@mui/material";
+import { Container, CssBaseline } from "@mui/material";
 import { useEffect, useState } from "react";
 import Catalog from "../../features/catalog/Catalog";
 import * as product from "../models/product";
+import Header from "./Header";
 
 function App() {
   const [products, setProducts] = useState<product.Product[]>([]);
@@ -13,23 +14,28 @@ function App() {
   }, []);
 
   const addProduct = () => {
-    setProducts(prevState => [...prevState,
+    setProducts((prevState) => [
+      ...prevState,
       {
         id: prevState.length + 101,
-        name: 'product ' + (prevState.length + 1),
-        price: (prevState.length * 100) + 100,
-        brand: 'brandName',
-        description: 'desc.',
-        pictureUrl: 'http://picsum.photos/200',
-      }])
-  }
+        name: "product " + (prevState.length + 1),
+        price: prevState.length * 100 + 100,
+        brand: "brandName",
+        description: "desc.",
+        pictureUrl: "http://picsum.photos/200",
+      },
+    ]);
+  };
 
   return (
     <>
-      <Typography variant="h1">Re-Store</Typography>
-      <Catalog products={products} addProduct={addProduct}/>
+      <CssBaseline />
+      <Header />
+      <Container>
+        <Catalog products={products} addProduct={addProduct} />
+      </Container>
     </>
-  )
+  );
 }
 
 export default App;
