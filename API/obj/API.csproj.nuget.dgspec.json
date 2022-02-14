@@ -1,21 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {}
+    "/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj": {
+    "/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
+        "projectUniqueName": "/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\API.csproj",
-        "packagesPath": "C:\\Users\\charl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\charl\\Software Developement\\Udemy\\ReStore\\API\\obj\\",
+        "projectPath": "/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/API.csproj",
+        "packagesPath": "/Users/charlie/.nuget/packages/",
+        "outputPath": "/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\charl\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/charlie/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -76,7 +75,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
         }
       }
     }

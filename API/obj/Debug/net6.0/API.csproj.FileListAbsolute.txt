@@ -1,57 +1,114 @@
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\appsettings.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\API.exe
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\API.deps.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\API.runtimeconfig.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\API.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\ref\API.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\API.pdb
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.AssemblyInfo.cs
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.csproj.CopyComplete
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\ref\API.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.pdb
-C:\Users\charl\Software Developement\Udemy\ReStore\API\obj\Debug\net6.0\API.genruntimeconfig.cache
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Humanizer.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Sqlite.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\SQLitePCLRaw.core.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\EntityFramework.SqlServer.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\EntityFramework.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.AspNet.Identity.Core.dll
-C:\Users\charl\Software Developement\Udemy\ReStore\API\bin\Debug\net6.0\Microsoft.AspNet.Identity.EntityFramework.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/appsettings.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/API.exe
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/API.deps.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/API.runtimeconfig.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/API.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/ref/API.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/API.pdb
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.csproj.CopyComplete
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/ref/API.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.pdb
+C:/Users/charl/Software Developement/Udemy/ReStore/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Humanizer.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/EntityFramework.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/ref/API.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.pdb
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/appsettings.Development.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/appsettings.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/API
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/API.deps.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/API.runtimeconfig.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/API.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/ref/API.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/API.pdb
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/EntityFramework.SqlServer.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/EntityFramework.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Humanizer.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.AspNet.Identity.Core.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.Data.Sqlite.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/SQLitePCLRaw.batteries_v2.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/SQLitePCLRaw.core.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.csproj.AssemblyReference.cache
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.AssemblyInfoInputs.cache
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.AssemblyInfo.cs
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.csproj.CoreCompileInputs.cache
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cs
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.MvcApplicationPartsAssemblyInfo.cache
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/staticwebassets.build.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/staticwebassets.development.json
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.csproj.CopyComplete
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.genruntimeconfig.cache
