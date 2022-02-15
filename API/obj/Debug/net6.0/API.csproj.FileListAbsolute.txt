@@ -112,3 +112,4 @@ C:/Users/charl/Software Developement/Udemy/ReStore/API/bin/Debug/net6.0/Microsof
 /Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/scopedcss/bundle/API.styles.css
 /Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.csproj.CopyComplete
 /Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+/Users/charlie/Documents/GitHub/E-Commerce-App-Checkout/API/bin/Debug/net6.0/package-lock.json

@@ -10,22 +10,22 @@ namespace API.Controllers
 {
     public class BuggyController : BaseApiController
     {
-        [HttpGet]
+        [HttpGet("not-found")]
         public ActionResult GetNotFound()
         {
             return NotFound("Page not found");
         }
-        [HttpGet]
+        [HttpGet("bad-request")]
         public ActionResult GetBadRequest()
         {
             return BadRequest("This is a bad request");
         }
-        [HttpGet]
+        [HttpGet("unauthorized")]
         public ActionResult GetUnauthorized()
         {
             return Unauthorized("Not authorized");
         }
-        [HttpGet]
+        [HttpGet("validatioyn-error")]
         public ActionResult GetValidationError()
         {
             ModelState.AddModelError("Problem #1", "This is a validation error #1");
@@ -33,7 +33,7 @@ namespace API.Controllers
             return ValidationProblem();
         }
 
-        [HttpGet]
+        [HttpGet("server-error")]
         public ActionResult GetServerError()
         {
             throw new Exception("Server error.");
