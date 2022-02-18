@@ -1,4 +1,5 @@
-#### E-Commerce website
+# E-Commerce website
+## Introduction
 This is an e-commerce website built on .NET Core backend.
 Front end is built using React.js with Mui as CSS framework.
 
