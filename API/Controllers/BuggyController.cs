@@ -25,7 +25,7 @@ namespace API.Controllers
         {
             return Unauthorized("Not authorized");
         }
-        [HttpGet("validatioyn-error")]
+        [HttpGet("validation-error")]
         public ActionResult GetValidationError()
         {
             ModelState.AddModelError("Problem #1", "This is a validation error #1");
